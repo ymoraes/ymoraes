@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ymoraes
-- 👀 I’m interested in JAVA Programming...
+- 👀 I’m interested in C#, C++, Python and Java Programming...
 
 
 <!---
